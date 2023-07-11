@@ -1,0 +1,7 @@
+#label-container div {
+    display: none; /* Hide all label container divs */
+}
+#label-container div:first-child {
+    display: block; /* Display only the first label container div (class name) */
+    font-size: 18px; /* Adjust font size as desired */
+    margin-top: 10px; /* Adjust margin top as desired */}
